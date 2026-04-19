@@ -1,0 +1,12 @@
+
+// Database..
+Password : EZO3ULW2k4cixrjV
+username : engsundars0lanki_db_user
+
+// Step 2:
+to connect database with server => folder => config => database.js => using mongoose..
+
+// Step 3 :
+Create api's related to authentication and authorization.. => routes..
+then create api's in routes and write/control in controller..
+
